@@ -38,8 +38,3 @@ let numero4 = 6.6;
 let division = numero3 / numero4;
 console.log("La división es:", division)
 
-const FRUIST = ["platano", "manzana", "pera", "naranja", "fresa",]
-
-FRUIST.forEach((fruit, index) => {
-    console.log(`fruta ${fruit} ${index}`)
-})
