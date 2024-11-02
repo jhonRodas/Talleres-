@@ -97,4 +97,3 @@ let cantidadToUpdate = prompt("ingresar la cantidad a actualizar: ") // cantidad
 tineda.updateQuantity(idToUpdate, cantidadToUpdate)// llamada al metodo updateQuantity()
 
 console.log(tineda.products)
-
